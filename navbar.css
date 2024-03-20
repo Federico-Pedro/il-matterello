@@ -1,0 +1,12 @@
+.navbar {
+background-color: var(--primary-color);
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem;
+}
+
+.menu-icon {
+    width: 30px;
+    height: 30px;
+}
